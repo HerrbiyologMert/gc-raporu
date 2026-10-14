@@ -11,10 +11,14 @@ A small Python program that reads DNA sequences from a text file, calculates the
 
 ## How to run
 
+```
 python tag15.py
+```
 
 ## Example output
 
+```
 ATGCAT 33.3
 CCGAA 60.0
 GGGCCC 100.0
+```
